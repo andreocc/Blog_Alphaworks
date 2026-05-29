@@ -28,6 +28,6 @@ Enquanto o Board pede para a TI implementar Inteligência Artificial, a fundaç�
 
 Do Tech ao Board.
 
-![Imagem](images/post_0047_urn_li_activity_7439269716201721857_img0.jpg)
+![Imagem](/images/post_0047_urn_li_activity_7439269716201721857_img0.jpg)
 
 **Fonte original:** [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7439269716201721857/)
