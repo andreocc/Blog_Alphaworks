@@ -28,6 +28,11 @@ enableGitInfo = true
   tocopen = false
   rssFullContent = true
 
+  [params.favicon]
+    icon = "/favicon.ico"
+    svg = "/favicon.svg"
+    apple = "/apple-touch-icon.png"
+
 [params.homeInfoParams]
   Title = "André Occenstein"
   Content = "Decisão não é dado. É arquitetura."
