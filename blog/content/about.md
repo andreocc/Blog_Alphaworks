@@ -2,6 +2,7 @@
 title: "Sobre"
 date: 2026-05-29
 draft: false
+layout: "about"
 ---
 
 Meu nome é André Occenstein. Sou CTO da XALQ e arquiteto de decisão.
