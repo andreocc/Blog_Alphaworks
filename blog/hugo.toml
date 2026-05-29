@@ -5,9 +5,10 @@ theme = "PaperMod"
 defaultContentLanguage = "pt"
 enableInlineShortcodes = true
 enableRobotsTXT = true
+enableGitInfo = true
 
 [params]
-  description = "Do Tech ao Board — Arquitetura de Decisão, Agentes Autônomos e Governança de Operações"
+  description = "Decisão não é dado. É arquitetura. Blog de André Occenstein — CTO da XALQ. Arquitetura de decisão, agentes autônomos e governança de operações."
   author = "André Occenstein"
   keywords = ["IA agêntica", "governança", "automação", "arquitetura de decisão", "agentes autônomos"]
   ShowReadingTime = true
@@ -25,6 +26,7 @@ enableRobotsTXT = true
   hideSummary = false
   showtoc = true
   tocopen = false
+  rssFullContent = true
 
 [params.homeInfoParams]
   Title = "André Occenstein"
