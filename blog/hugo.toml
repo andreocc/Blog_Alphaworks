@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
 [params.homeInfoParams]
   Title = "André Occenstein"
-  Content = "Arquitetura de Decisão, Agentes Autônomos e Governança de Operações.\n\nDo Tech ao Board."
+  Content = "Decisão não é dado. É arquitetura."
 
 [[params.socialIcons]]
   name = "linkedin"
@@ -37,6 +37,10 @@ enableRobotsTXT = true
 [[params.socialIcons]]
   name = "github"
   url = "https://github.com/andreocc"
+
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/andreocc.tech/"
 
 [menu]
 

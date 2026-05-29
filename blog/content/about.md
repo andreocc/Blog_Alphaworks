@@ -5,7 +5,7 @@ draft: false
 layout: "about"
 ---
 
-Meu nome é André Occenstein. Sou CTO da XALQ e arquiteto de decisão.
+Meu nome é André Occenstein. Sou CTO da [XALQ](https://www.xalq.com.br) e arquiteto de decisão.
 
 O que isso significa na prática: eu projeto sistemas onde agentes autônomos tomam decisão operacional dentro de limites definidos por governança. Não é IA fazendo o que quer. Não é processo engessado que ignora contexto. É os dois trabalhando juntos, cada um no que faz melhor.
 
