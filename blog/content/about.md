@@ -1,14 +1,13 @@
 ---
 title: "Sobre"
-layout: "single"
-url: "/about/"
-summary: "Sobre o AlphaWorks Blog"
+date: 2026-05-29
+draft: false
 ---
 
-## AlphaWorks
+Arquiteto de Decisão. Construo sistemas onde IA e governança operam juntas — não uma dentro da outra.
 
-Decisão arquitetada. Agentes autônomos. Governança de Operações.
+**Do Tech ao Board** não é slogan. É método: entender a tecnologia e traduzir pra decisão de negócio. E vice-versa.
 
-Aqui escrevemos sobre o que construímos — e o que aprendemos no caminho.
+Crio agentes autônomos, pipelines de orquestração, travas de compliance e arquiteturas que entregam decisão — não dado.
 
-**André Occenstein** — CTPO @ XALQ. Do Tech ao Board.
+[LinkedIn](https://www.linkedin.com/in/andreocc/) · [GitHub](https://github.com/andreocc)

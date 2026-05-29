@@ -1,13 +1,13 @@
 baseURL = "https://blog.alphaworks.com.br"
 languageCode = "pt-BR"
-title = "AlphaWorks Blog"
+title = "André Occenstein"
 theme = "PaperMod"
 defaultContentLanguage = "pt"
 enableInlineShortcodes = true
 enableRobotsTXT = true
 
 [params]
-  description = "De Tech ao Board — Arquitetura de Decisão, Agentes Autônomos e Governança de Operações"
+  description = "Do Tech ao Board — Arquitetura de Decisão, Agentes Autônomos e Governança de Operações"
   author = "André Occenstein"
   keywords = ["IA agêntica", "governança", "automação", "arquitetura de decisão", "agentes autônomos"]
   ShowReadingTime = true
@@ -27,16 +27,16 @@ enableRobotsTXT = true
   tocopen = false
 
 [params.homeInfoParams]
-  Title = "AlphaWorks"
-  Content = "Arquitetura de Decisão, Agentes Autônomos e Governança de Operações.\n\nDe Tech ao Board."
+  Title = "André Occenstein"
+  Content = "Arquitetura de Decisão, Agentes Autônomos e Governança de Operações.\n\nDo Tech ao Board."
 
 [[params.socialIcons]]
   name = "linkedin"
-  url = "https://linkedin.com/in/andreoccentstein"
+  url = "https://www.linkedin.com/in/andreocc/"
 
 [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/alphaworks"
+  url = "https://github.com/andreocc"
 
 [menu]
 
