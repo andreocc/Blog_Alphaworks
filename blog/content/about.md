@@ -24,4 +24,4 @@ O blog não tem patrocinador, não vende curso, não faz lead gen encoberto. É 
 
 Do Tech ao Board.
 
-[LinkedIn](https://www.linkedin.com/in/andreocc/) · [GitHub](https://github.com/andreocc)
+[LinkedIn](https://www.linkedin.com/in/andreocc/) · [GitHub](https://github.com/andreocc) · [Instagram](https://www.instagram.com/andreocc.tech/)
