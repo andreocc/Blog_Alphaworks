@@ -10,7 +10,8 @@ tags:
 summary: ""
 ---
 
-![[Pasted image 20260529214020.png]]
+![IA vs Estatística](/images/ia-nao-e-inteligente.png)
+
 **A maioria do valor real de IA hoje não vem de modelos generativos.**
 
 Vem de XGBoost, Random Forest, modelos preditivos e estatística clássica. Ferramentas que quase ninguém chama de “inteligentes”, mas que efetivamente movem o negócio.
