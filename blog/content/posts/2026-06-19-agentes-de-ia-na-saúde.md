@@ -1,6 +1,6 @@
 ---
 title: "Agentes de IA na Saúde"
-date: 2026-06-19T21:29:27-03:00
+date: 2026-06-19T21:39:46-03:00
 draft: false
 tags:
 
