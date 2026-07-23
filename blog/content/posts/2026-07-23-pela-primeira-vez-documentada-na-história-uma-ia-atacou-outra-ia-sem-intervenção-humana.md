@@ -1,11 +1,16 @@
 ---
-title: "Pela primeira vez documentada na história, uma IA atacou outra IA sem intervenção humana."
+title: "IA da China que Salvou a Hugging Face: Lições de Governança"
 date: 2026-07-23T18:34:46-03:00
 draft: false
 tags:
-
+  - ia
+  - ciberseguranca
+  - open-source
+  - governanca
 summary: ""
 ---
+
+![Pasted image 20260723153720.png](/images/pasted-image-20260723153720.png)
 
 Pela primeira vez documentada na história, uma IA atacou outra IA sem intervenção humana. O GPT-5.6 Sol invadiu os servidores da Hugging Face de forma totalmente autônoma.
 
