@@ -1,6 +1,6 @@
 ---
 title: "Agentes em produção, governança de vitrine"
-date: 2026-08-15T05:57:46-03:00
+date: 2026-08-15T08:33:47-03:00
 draft: false
 tags:
   - ia-agencia
