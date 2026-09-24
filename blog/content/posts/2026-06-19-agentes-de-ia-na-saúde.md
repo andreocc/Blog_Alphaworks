@@ -4,7 +4,8 @@ date: 2026-06-19T21:39:46-03:00
 draft: false
 tags:
 
-summary: ""
+summary: "Não trabalho diretamente com desenvolvimento para saúde hoje, mas uma sequência de leituras recentes sobre NVIDIA e healthcare AI me chamou atenção e pode."
+description: "Não trabalho diretamente com desenvolvimento para saúde hoje, mas uma sequência de leituras recentes sobre NVIDIA e healthcare AI me chamou atenção e pode."
 ---
 
 

@@ -7,7 +7,8 @@ tags:
   - IA
   - agentes-autonomos
   - arquitetura-decisao
-summary: "Estamos saindo da era dos chats para a era dos agentes autôn"
+summary: "Estamos saindo da era dos chats para a era dos agentes autônomos. Eles não apenas sugerem; eles executam."
+description: "Estamos saindo da era dos chats para a era dos agentes autônomos. Eles não apenas sugerem; eles executam."
 ---
 
 Estamos saindo da era dos chats para a era dos agentes autônomos. 

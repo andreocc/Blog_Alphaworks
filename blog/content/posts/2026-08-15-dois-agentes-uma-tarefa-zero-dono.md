@@ -5,7 +5,8 @@ draft: false
 tags:
   - ia-agencia
   - arquitetura
-summary: ""
+summary: "A Anthropic soltou agentes de IA na mesma tarefa. Eles entraram em guerra pelo trabalho, disputando recurso, se sobrepondo e atropelando o resultado um do."
+description: "A Anthropic soltou agentes de IA na mesma tarefa. Eles entraram em guerra pelo trabalho, disputando recurso, se sobrepondo e atropelando o resultado um do."
 ---
 
 A Anthropic soltou agentes de IA na mesma tarefa. Eles entraram em guerra pelo trabalho, disputando recurso, se sobrepondo e atropelando o resultado um do outro.

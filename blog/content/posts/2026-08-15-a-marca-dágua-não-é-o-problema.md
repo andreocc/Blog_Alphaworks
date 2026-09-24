@@ -5,7 +5,8 @@ draft: false
 tags:
   - regulacao
   - ia
-summary: ""
+summary: "Desde 2 de agosto, a Europa obriga conteúdo gerado por IA a se identificar. A reação mais ouvida foi: agora vão me pegar."
+description: "Desde 2 de agosto, a Europa obriga conteúdo gerado por IA a se identificar. A reação mais ouvida foi: agora vão me pegar."
 ---
 
 Desde 2 de agosto, a Europa obriga conteúdo gerado por IA a se identificar. A reação mais ouvida foi: agora vão me pegar.

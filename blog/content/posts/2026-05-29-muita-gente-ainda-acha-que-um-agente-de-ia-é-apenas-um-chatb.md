@@ -7,7 +7,8 @@ tags:
   - IA
   - agentes-autonomos
   - engenharia
-summary: "Muita gente ainda acha que um agente de IA é apenas um chatb"
+summary: "Muita gente ainda acha que um agente de IA é apenas um chatbot com acesso a ferramentas. Não é. Um agente existe para perseguir um objetivo."
+description: "Muita gente ainda acha que um agente de IA é apenas um chatbot com acesso a ferramentas. Não é. Um agente existe para perseguir um objetivo."
 ---
 
 Muita gente ainda acha que um agente de IA é apenas um chatbot com acesso a ferramentas.

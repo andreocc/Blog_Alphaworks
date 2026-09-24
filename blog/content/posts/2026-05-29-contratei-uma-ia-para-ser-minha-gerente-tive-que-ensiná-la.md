@@ -7,7 +7,8 @@ tags:
   - agentes-autonomos
   - arquitetura-decisao
   - lideranca
-summary: "\"Contratei uma IA para ser minha gerente. Tive que ensiná-la\""
+summary: "'Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer microgestão.' Parece piada. Foi meu sábado."
+description: "'Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer microgestão.' Parece piada. Foi meu sábado."
 ---
 
 "Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer microgestão."

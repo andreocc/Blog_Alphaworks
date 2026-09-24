@@ -7,7 +7,8 @@ tags:
   - engenharia
   - tecnologia
   - carreira
-summary: "Às vezes eu olho para o mercado e vejo uma corrida quase inf"
+summary: "Às vezes eu olho para o mercado e vejo uma corrida quase infantil por ferramentas."
+description: "Às vezes eu olho para o mercado e vejo uma corrida quase infantil por ferramentas."
 ---
 
 Às vezes eu olho para o mercado e vejo uma corrida quase infantil por ferramentas. Todo mundo falando de ERP, CRM, IA… como se acumular tecnologia fosse sinônimo de inteligência.

@@ -4,7 +4,8 @@ date: 2026-08-12T20:36:15-03:00
 draft: false
 tags:
   - governanca
-summary: ""
+summary: "Não é freio, é trilho. Governança de IA virou sinônimo de lentidão nas empresas. Comitês que aprovam, regras que atrasam, medo que paralisa."
+description: "Não é freio, é trilho. Governança de IA virou sinônimo de lentidão nas empresas. Comitês que aprovam, regras que atrasam, medo que paralisa."
 ---
 
 Não é freio, é trilho.

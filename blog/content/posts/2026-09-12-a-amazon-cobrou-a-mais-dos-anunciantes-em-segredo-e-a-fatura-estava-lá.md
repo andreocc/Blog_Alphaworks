@@ -6,7 +6,8 @@ tags:
   - custos
   - governanca
   - fornecedores
-summary: ""
+summary: "O FTC e 22 estados americanos processam a Amazon por uma sobretaxa de anúncios aplicada silenciosamente."
+description: "O FTC e 22 estados americanos processam a Amazon por uma sobretaxa de anúncios aplicada silenciosamente."
 ---
 
 O FTC e 22 estados americanos processam a Amazon por uma sobretaxa de anúncios aplicada silenciosamente. O valor é bilionário, mas a lição não é sobre a Amazon. É sobre todo custo que ninguém audita.

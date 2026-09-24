@@ -4,7 +4,8 @@ date: 2026-07-20T11:09:48-03:00
 draft: false
 tags:
 
-summary: ""
+summary: "O maior prejuízo de um ataque ransomware não é o resgate. É quando o mercado decide que sua empresa vale menos."
+description: "O maior prejuízo de um ataque ransomware não é o resgate. É quando o mercado decide que sua empresa vale menos."
 ---
 
 ![](/images/pasted-image-20260717182954.png)

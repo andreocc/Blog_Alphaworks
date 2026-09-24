@@ -7,7 +7,8 @@ tags:
   - agentes-autonomos
   - arquitetura-decisao
   - engenharia
-summary: "O mercado financeiro já entendeu o que muitos executivos ain"
+summary: "O mercado financeiro já entendeu o que muitos executivos ainda insistem em ignorar: a era dos copilotos acabou."
+description: "O mercado financeiro já entendeu o que muitos executivos ainda insistem em ignorar: a era dos copilotos acabou."
 ---
 
 O mercado financeiro já entendeu o que muitos executivos ainda insistem em ignorar: a era dos copilotos acabou.

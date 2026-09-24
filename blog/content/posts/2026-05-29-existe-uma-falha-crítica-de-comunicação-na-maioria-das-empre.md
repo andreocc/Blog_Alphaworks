@@ -7,7 +7,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - engenharia
-summary: "Existe uma falha crítica de comunicação na maioria das empre"
+summary: "Existe uma falha crítica de comunicação na maioria das empresas. O negócio pede “todos os dados possíveis”."
+description: "Existe uma falha crítica de comunicação na maioria das empresas. O negócio pede “todos os dados possíveis”."
 ---
 
 Existe uma falha crítica de comunicação na maioria das empresas.

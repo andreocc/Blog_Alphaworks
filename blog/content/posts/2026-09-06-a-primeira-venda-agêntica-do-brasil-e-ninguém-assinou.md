@@ -6,7 +6,8 @@ tags:
   - ia-agentica
   - vendas
   - governanca
-summary: ""
+summary: "Uma plataforma de viagens brasileira fechou, em agosto, a primeira transação de ponta a ponta feita por um agente de IA: o assistente executou tudo."
+description: "Uma plataforma de viagens brasileira fechou, em agosto, a primeira transação de ponta a ponta feita por um agente de IA: o assistente executou tudo."
 ---
 
 Uma plataforma de viagens brasileira fechou, em agosto, a primeira transação de ponta a ponta feita por um agente de IA: o assistente executou tudo sozinho, da escolha da hospedagem ao pagamento via Pix. Não há registro público de um humano revisando o que o agente decidiu.

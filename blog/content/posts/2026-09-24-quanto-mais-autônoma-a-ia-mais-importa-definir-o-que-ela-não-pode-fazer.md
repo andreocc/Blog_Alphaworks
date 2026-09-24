@@ -7,7 +7,8 @@ tags:
   - governanca
   - agentes
   - arquitetura
-summary: ""
+summary: "Quanto mais autônoma a IA se torna, mais importa definir o que ela não pode fazer. Parece contradição. Não é."
+description: "Quanto mais autônoma a IA se torna, mais importa definir o que ela não pode fazer. Parece contradição. Não é."
 ---
 
 Quanto mais autônoma a IA se torna, mais importa definir o que ela não pode fazer.

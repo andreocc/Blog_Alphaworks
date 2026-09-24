@@ -6,7 +6,8 @@ tags:
   - custos
   - cloud
   - risco
-summary: ""
+summary: "Em 15 de setembro de 2026, a AWS atualizou o painel de status e confirmou o que nenhum contrato de nuvem prevê: dados de clientes perdidos de forma."
+description: "Em 15 de setembro de 2026, a AWS atualizou o painel de status e confirmou o que nenhum contrato de nuvem prevê: dados de clientes perdidos de forma."
 ---
 
 Em 15 de setembro de 2026, a AWS atualizou o painel de status e confirmou o que nenhum contrato de nuvem prevê: dados de clientes perdidos de forma permanente. Seis meses antes, em 1º de março, drones atingiram dois data centers da Amazon nos Emirados Árabes Unidos e causaram danos a uma instalação no Bahrein. A Guarda Revolucionária iraniana assumiu a autoria e declarou que a instalação do Bahrein foi escolhida por sediar operações ligadas ao apoio da Amazon às forças militares dos Estados Unidos.

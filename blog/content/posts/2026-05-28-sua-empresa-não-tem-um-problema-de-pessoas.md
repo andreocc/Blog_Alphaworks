@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - tecnologia
-summary: "Sua empresa não tem um problema de pessoas"
+summary: "Sua empresa não tem um problema de pessoas. Tem um problema de conexão. Processos quebrados, áreas isoladas e decisões desconectadas… isso não aparece no."
+description: "Sua empresa não tem um problema de pessoas. Tem um problema de conexão. Processos quebrados, áreas isoladas e decisões desconectadas… isso não aparece no."
 ---
 
 Sua empresa não tem um problema de pessoas.

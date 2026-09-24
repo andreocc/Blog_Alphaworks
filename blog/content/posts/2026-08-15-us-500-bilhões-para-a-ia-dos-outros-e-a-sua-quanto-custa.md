@@ -5,7 +5,8 @@ draft: false
 tags:
   - custos
   - finops
-summary: ""
+summary: "A Nvidia negocia um pacote de US$ 500 bilhões com Wall Street para financiar infraestrutura de IA. A escala é de outro planeta."
+description: "A Nvidia negocia um pacote de US$ 500 bilhões com Wall Street para financiar infraestrutura de IA. A escala é de outro planeta."
 ---
 
 A Nvidia negocia um pacote de US$ 500 bilhões com Wall Street para financiar infraestrutura de IA. A escala é de outro planeta. A pergunta para a sua empresa é mais modesta: quanto a IA custa por mês, por equipe e por processo?

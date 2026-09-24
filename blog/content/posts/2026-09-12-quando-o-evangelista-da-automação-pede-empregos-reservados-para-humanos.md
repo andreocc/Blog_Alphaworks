@@ -6,7 +6,8 @@ tags:
   - trabalho
   - talento
   - ia
-summary: ""
+summary: "Em 26 de agosto de 2026, Bill Gates publicou no Gates Notes um ensaio de 6 mil palavras com um título que soa como ironia: 'A era turbulenta da IA chegou."
+description: "Em 26 de agosto de 2026, Bill Gates publicou no Gates Notes um ensaio de 6 mil palavras com um título que soa como ironia: 'A era turbulenta da IA chegou."
 ---
 
 Em 26 de agosto de 2026, Bill Gates publicou no Gates Notes um ensaio de 6 mil palavras com um título que soa como ironia: "A era turbulenta da IA chegou. As escolhas que fizermos agora são críticas." O homem que passou quatro décadas vendendo software para substituir trabalho humano agora propõe três medidas concretas: criar instituições nacionais e internacionais para governar a transição, estabelecer uma categoria de empregos "Human Reserved" — reservados a pessoas — e taxar tokens de IA e robôs para financiar a rede de proteção social.

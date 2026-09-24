@@ -4,7 +4,8 @@ date: 2026-08-12T20:36:37-03:00
 draft: false
 tags:
   - governanca
-summary: ""
+summary: "Ontem a pergunta era o que a IA consegue fazer. Hoje é quem fez. No mesmo dia, a Anthropic anunciou marca d'água invisível nos textos dos seus modelos e o."
+description: "Ontem a pergunta era o que a IA consegue fazer. Hoje é quem fez. No mesmo dia, a Anthropic anunciou marca d'água invisível nos textos dos seus modelos e o."
 ---
 
 Ontem a pergunta era o que a IA consegue fazer. Hoje é quem fez. No mesmo dia, a Anthropic anunciou marca d'água invisível nos textos dos seus modelos e o Spotify passou a rotular perfis de IA e tirá-los das recomendações.

@@ -4,7 +4,8 @@ date: 2026-05-29
 draft: false
 tags:
   - governança
-summary: "Acabei de participar de uma riquíssima mesa redonda da Infom"
+summary: "Acabei de participar de uma riquíssima mesa redonda da Infomach sobre IA Generativa e Cibersegurança."
+description: "Acabei de participar de uma riquíssima mesa redonda da Infomach sobre IA Generativa e Cibersegurança."
 ---
 
 Acabei de participar de uma riquíssima mesa redonda da Infomach sobre IA Generativa e Cibersegurança.

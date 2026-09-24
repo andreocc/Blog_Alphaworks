@@ -7,7 +7,8 @@ tags:
   - IA
   - agentes-autonomos
   - arquitetura-decisao
-summary: "Menos de 5% dos projetos de GenAI chegam a produção sustenta"
+summary: "Menos de 5% dos projetos de GenAI chegam a produção sustentada. O resto é teatro."
+description: "Menos de 5% dos projetos de GenAI chegam a produção sustentada. O resto é teatro."
 ---
 
 Menos de 5% dos projetos de GenAI chegam a produção sustentada. O resto é teatro.

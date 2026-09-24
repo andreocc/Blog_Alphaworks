@@ -6,7 +6,8 @@ tags:
   - ia
   - custos
   - orquestracao
-summary: ""
+summary: "O OpenRouter, intermediário que roteia chamadas entre provedores de IA, deve ser comprado por US$ 7 bilhões."
+description: "O OpenRouter, intermediário que roteia chamadas entre provedores de IA, deve ser comprado por US$ 7 bilhões."
 ---
 
 O OpenRouter, intermediário que roteia chamadas entre provedores de IA, deve ser comprado por US$ 7 bilhões. O agregador vale mais que a maioria dos modelos que ele agrega.

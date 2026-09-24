@@ -4,7 +4,8 @@ date: 2026-08-12T10:24:35-03:00
 draft: false
 tags:
   - operacoes
-summary: ""
+summary: "Seu sistema vai separar o imposto antes de você tocar no dinheiro. E se os dados estiverem errados, o problema é seu."
+description: "Seu sistema vai separar o imposto antes de você tocar no dinheiro. E se os dados estiverem errados, o problema é seu."
 ---
 
 Seu sistema vai separar o imposto antes de você tocar no dinheiro. E se os dados estiverem errados, o problema é seu.

@@ -6,7 +6,8 @@ tags:
   - ciberseguranca
   - risco
   - processo
-summary: ""
+summary: "O golpista não invade mais o sistema. Ele clona a voz de quem aprova. Estudo divulgado no Brasil mostra o avanço: o roubo de senhas deu lugar ao uso de IA."
+description: "O golpista não invade mais o sistema. Ele clona a voz de quem aprova. Estudo divulgado no Brasil mostra o avanço: o roubo de senhas deu lugar ao uso de IA."
 ---
 
 O golpista não invade mais o sistema. Ele clona a voz de quem aprova.

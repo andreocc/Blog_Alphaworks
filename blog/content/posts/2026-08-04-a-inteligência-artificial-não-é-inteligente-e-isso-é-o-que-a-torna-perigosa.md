@@ -7,7 +7,8 @@ tags:
   - tecnologia
   - gestão
   - risco
-summary: ""
+summary: "Não é inteligência artificial. É comportamento que parece inteligente — e a diferença entre os dois é o tamanho do prejuízo quando você descobre."
+description: "Não é inteligência artificial. É comportamento que parece inteligente — e a diferença entre os dois é o tamanho do prejuízo quando você descobre."
 ---
 
 Não é inteligência artificial. É comportamento que parece inteligente — e a diferença entre os dois é o tamanho do prejuízo quando você descobre.

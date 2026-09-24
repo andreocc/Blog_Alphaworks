@@ -6,7 +6,8 @@ tags:
   - regulacao
   - ia
   - governanca
-summary: ""
+summary: "A lei de IA brasileira está na reta final. E a maioria das empresas vai descobrir por ela quanta IA realmente usa."
+description: "A lei de IA brasileira está na reta final. E a maioria das empresas vai descobrir por ela quanta IA realmente usa."
 ---
 
 A lei de IA brasileira está na reta final. E a maioria das empresas vai descobrir por ela quanta IA realmente usa.

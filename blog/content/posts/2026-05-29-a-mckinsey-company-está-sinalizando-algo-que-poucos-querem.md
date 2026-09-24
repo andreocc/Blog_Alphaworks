@@ -6,7 +6,8 @@ tags:
   - governança
   - lideranca
   - carreira
-summary: "A McKinsey & Company está sinalizando algo que poucos querem"
+summary: "A McKinsey & Company está sinalizando algo que poucos querem admitir: a IA está reescrevendo completamente as regras da criação de negócios."
+description: "A McKinsey & Company está sinalizando algo que poucos querem admitir: a IA está reescrevendo completamente as regras da criação de negócios."
 ---
 
 A McKinsey & Company está sinalizando algo que poucos querem admitir: a IA está reescrevendo completamente as regras da criação de negócios.

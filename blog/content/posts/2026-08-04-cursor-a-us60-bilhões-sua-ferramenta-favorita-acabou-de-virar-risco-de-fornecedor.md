@@ -7,7 +7,8 @@ tags:
   - custos
   - fornecedores
   - governanca
-summary: ""
+summary: "Não é ferramenta de produtividade. É dependência de fornecedor. E dependência de fornecedor sem plano de saída não é estratégia — é aposta."
+description: "Não é ferramenta de produtividade. É dependência de fornecedor. E dependência de fornecedor sem plano de saída não é estratégia — é aposta."
 ---
 
 Não é ferramenta de produtividade. É dependência de fornecedor. E dependência de fornecedor sem plano de saída não é estratégia — é aposta.

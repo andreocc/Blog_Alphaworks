@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - tecnologia
-summary: "Durante anos, a XALQ | Decision Work as a Service vendia sof"
+summary: "Durante anos, a XALQ | Decision Work as a Service vendia software. SAP. HubSpot. Neoway. Implementávamos, treinávamos, entregávamos o acesso."
+description: "Durante anos, a XALQ | Decision Work as a Service vendia software. SAP. HubSpot. Neoway. Implementávamos, treinávamos, entregávamos o acesso."
 ---
 
 Durante anos, a XALQ | Decision Work as a Service vendia software.

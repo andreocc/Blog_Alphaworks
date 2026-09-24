@@ -4,7 +4,8 @@ date: 2026-05-29
 draft: false
 tags:
   - tecnologia
-summary: "Ganhamos uma concorrência recentemente"
+summary: "Ganhamos uma concorrência recentemente. Nossa proposta era quase o dobro da do concorrente."
+description: "Ganhamos uma concorrência recentemente. Nossa proposta era quase o dobro da do concorrente."
 ---
 
 Ganhamos uma concorrência recentemente.

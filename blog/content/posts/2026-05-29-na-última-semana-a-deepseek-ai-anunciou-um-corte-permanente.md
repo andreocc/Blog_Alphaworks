@@ -7,7 +7,8 @@ tags:
   - arquitetura-decisao
   - tecnologia
   - carreira
-summary: "Na última semana, a DeepSeek AI anunciou um corte permanente"
+summary: "Na última semana, a DeepSeek AI anunciou um corte permanente de até 75% no preço das suas APIs. O mercado comemorou. Planilhas foram abertas."
+description: "Na última semana, a DeepSeek AI anunciou um corte permanente de até 75% no preço das suas APIs. O mercado comemorou. Planilhas foram abertas."
 ---
 
 Na última semana, a DeepSeek AI anunciou um corte permanente de até 75% no preço das suas APIs.

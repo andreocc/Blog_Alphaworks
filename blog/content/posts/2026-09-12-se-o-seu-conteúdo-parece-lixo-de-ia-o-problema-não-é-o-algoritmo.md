@@ -6,7 +6,8 @@ tags:
   - conteudo
   - qualidade
   - operacoes
-summary: ""
+summary: "Em março de 2024, o LinkedIn começou a testar etiquetas automáticas em posts que seus modelos classificavam como 'gerados por IA'."
+description: "Em março de 2024, o LinkedIn começou a testar etiquetas automáticas em posts que seus modelos classificavam como 'gerados por IA'."
 ---
 
 Em março de 2024, o LinkedIn começou a testar etiquetas automáticas em posts que seus modelos classificavam como "gerados por IA". Em fevereiro de 2025, o Meta expandiu o rótulo "Imagined with AI" para imagens no Facebook e Instagram. No primeiro trimestre de 2026, o YouTube exigiu que criadores declarassem material sintético realista. A tendência é clara: as plataformas pararam de fingir que não sabem distinguir texto de máquina de texto de gente. Elas passaram a avisar o público antes mesmo de você clicar.

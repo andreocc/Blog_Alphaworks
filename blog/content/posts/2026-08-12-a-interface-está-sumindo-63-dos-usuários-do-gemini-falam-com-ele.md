@@ -4,7 +4,8 @@ date: 2026-08-12T20:35:39-03:00
 draft: false
 tags:
   - zero-ui
-summary: ""
+summary: "O Gemini chegou a 1 bilhão de usuários. O número que importa não é esse. É o outro: 63% das pessoas falam com o assistente em vez de digitar."
+description: "O Gemini chegou a 1 bilhão de usuários. O número que importa não é esse. É o outro: 63% das pessoas falam com o assistente em vez de digitar."
 ---
 
 O Gemini chegou a 1 bilhão de usuários. O número que importa não é esse. É o outro: 63% das pessoas falam com o assistente em vez de digitar.

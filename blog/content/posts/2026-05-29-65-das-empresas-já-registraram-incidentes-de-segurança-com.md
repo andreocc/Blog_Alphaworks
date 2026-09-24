@@ -7,7 +7,8 @@ tags:
   - IA
   - agentes-autonomos
   - lideranca
-summary: "65% das empresas já registraram incidentes de segurança com"
+summary: "65% das empresas já registraram incidentes de segurança com agentes de IA. O dado é do relatório conjunto da Cloud Security Alliance e da Token Security —."
+description: "65% das empresas já registraram incidentes de segurança com agentes de IA. O dado é do relatório conjunto da Cloud Security Alliance e da Token Security —."
 ---
 
 65% das empresas já registraram incidentes de segurança com agentes de IA. O dado é do relatório conjunto da Cloud Security Alliance e da Token Security — e ele expõe uma inversão que a maioria das lideranças ainda não processou.

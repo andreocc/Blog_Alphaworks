@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - carreira
-summary: "Times de vendas B2B erram o forecast em 40% — em média"
+summary: "Times de vendas B2B erram o forecast em 40% — em média. Não é minha estimativa."
+description: "Times de vendas B2B erram o forecast em 40% — em média. Não é minha estimativa."
 ---
 
 Times de vendas B2B erram o forecast em 40% — em média.

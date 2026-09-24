@@ -4,7 +4,8 @@ date: 2026-06-02T12:36:22-03:00
 draft: false
 tags:
 
-summary: ""
+summary: "Não é sorte de loteria. É má gestão de custos. Enquanto a Mega da Virada exige uma improbabilidade estatística para pagar R$ 1,09 bilhão, uma empresa."
+description: "Não é sorte de loteria. É má gestão de custos. Enquanto a Mega da Virada exige uma improbabilidade estatística para pagar R$ 1,09 bilhão, uma empresa."
 ---
 
 ![](/images/file-000000003cb0720eb31431dc45cae895.png)

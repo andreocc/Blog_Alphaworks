@@ -8,7 +8,8 @@ tags:
   - Agentes
   - Governança
   - DoTechAoBoard
-summary: "Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer micromanagement."
+summary: '"Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer micromanagement." Parece piada. Foi meu sábado.'
+description: '"Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer micromanagement." Parece piada. Foi meu sábado.'
 ---
 
 "Contratei uma IA para ser minha gerente. Tive que ensiná-la a não fazer micromanagement."

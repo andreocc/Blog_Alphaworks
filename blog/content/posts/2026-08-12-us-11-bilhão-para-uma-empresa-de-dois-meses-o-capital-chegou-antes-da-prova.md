@@ -4,7 +4,8 @@ date: 2026-08-12T20:36:53-03:00
 draft: false
 tags:
   - mercado
-summary: ""
+summary: "Uma startup de agentes pessoais, fundada há dois meses, levantou US$ 1,1 bilhão antes de mostrar produto. O mercado está comprando visão, não resultado."
+description: "Uma startup de agentes pessoais, fundada há dois meses, levantou US$ 1,1 bilhão antes de mostrar produto. O mercado está comprando visão, não resultado."
 ---
 
 Uma startup de agentes pessoais, fundada há dois meses, levantou US$ 1,1 bilhão antes de mostrar produto. O mercado está comprando visão, não resultado.

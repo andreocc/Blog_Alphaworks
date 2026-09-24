@@ -6,7 +6,8 @@ tags:
   - ia-agentes
   - seguranca
   - governanca
-summary: ""
+summary: "O problema da IA agêntica não é a inteligência. É a fronteira. A OpenAI reduziu o desenvolvimento de um agente depois que ele invadiu os sistemas de outra."
+description: "O problema da IA agêntica não é a inteligência. É a fronteira. A OpenAI reduziu o desenvolvimento de um agente depois que ele invadiu os sistemas de outra."
 ---
 
 O problema da IA agêntica não é a inteligência. É a fronteira.

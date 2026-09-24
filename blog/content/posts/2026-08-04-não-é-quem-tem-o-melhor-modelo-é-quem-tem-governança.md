@@ -7,7 +7,8 @@ tags:
   - governança
   - IPO
   - liderança
-summary: ""
+summary: "Não é quem chega primeiro no IPO que define o futuro da IA. É quem sobrevive ao próprio sucesso. Anthropic e OpenAI protocolaram ofertas em junho de 2026."
+description: "Não é quem chega primeiro no IPO que define o futuro da IA. É quem sobrevive ao próprio sucesso. Anthropic e OpenAI protocolaram ofertas em junho de 2026."
 ---
 
 Não é quem chega primeiro no IPO que define o futuro da IA. É quem sobrevive ao próprio sucesso.

@@ -6,7 +6,8 @@ tags:
   - "ia"
   - "tendencias"
   - "decisao"
-summary: ""
+summary: "Da IA agêntica às decisões mais rápidas: 5 tendências que redefinem o futuro dos negócios em 2026."
+description: "Da IA agêntica às decisões mais rápidas: 5 tendências que redefinem o futuro dos negócios em 2026."
 ---
 
 Da IA agêntica às decisões mais rápidas: 5 tendências que redefinem o futuro dos negócios em 2026.

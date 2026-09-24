@@ -8,7 +8,8 @@ tags:
   - governanca
   - risco
   - compliance
-summary: ""
+summary: "Não é problema de segurança infantil. É a regulação batendo na porta — e a maioria das empresas de tecnologia no Brasil não ouviu o primeiro toque."
+description: "Não é problema de segurança infantil. É a regulação batendo na porta — e a maioria das empresas de tecnologia no Brasil não ouviu o primeiro toque."
 ---
 
 Não é problema de segurança infantil. É a regulação batendo na porta — e a maioria das empresas de tecnologia no Brasil não ouviu o primeiro toque.

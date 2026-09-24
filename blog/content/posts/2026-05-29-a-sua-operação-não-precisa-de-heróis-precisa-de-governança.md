@@ -7,7 +7,8 @@ tags:
   - agentes-autonomos
   - lideranca
   - engenharia
-summary: "A sua operação não precisa de heróis. Precisa de governança"
+summary: "A sua operação não precisa de heróis. Precisa de governança. A falha fatal na maioria das operações de TI e atendimento é funcionar como um funil cego."
+description: "A sua operação não precisa de heróis. Precisa de governança. A falha fatal na maioria das operações de TI e atendimento é funcionar como um funil cego."
 ---
 
 A sua operação não precisa de heróis. Precisa de governança.

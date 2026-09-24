@@ -7,7 +7,8 @@ tags:
   - ReformaTributaria
   - SplitPayment
   - Governanca
-summary: "O maior risco para o caixa da sua empresa em 2026 não é a taxa Selic. É o seu ERP obsoleto tentando operar a nova Reforma Tributária."
+summary: "O maior risco para o caixa da sua empresa em 2026 não é a taxa Selic a dois dígitos."
+description: "O maior risco para o caixa da sua empresa em 2026 não é a taxa Selic a dois dígitos."
 ---
 
 O maior risco para o caixa da sua empresa em 2026 não é a taxa Selic a dois dígitos. É o seu sistema de gestão (ERP) obsoleto tentando operar a nova Reforma Tributária.

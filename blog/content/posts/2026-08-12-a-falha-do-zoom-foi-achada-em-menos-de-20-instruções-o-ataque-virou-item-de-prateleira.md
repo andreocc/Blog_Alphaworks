@@ -4,7 +4,8 @@ date: 2026-08-12T20:35:30-03:00
 draft: false
 tags:
   - ciberseguranca
-summary: ""
+summary: "A falha crítica do Zoom não caiu na mão de um caçador de recompensas. Foi encontrada com menos de 20 instruções dadas a uma IA pública: qualquer."
+description: "A falha crítica do Zoom não caiu na mão de um caçador de recompensas. Foi encontrada com menos de 20 instruções dadas a uma IA pública: qualquer."
 ---
 
 A falha crítica do Zoom não caiu na mão de um caçador de recompensas. Foi encontrada com menos de 20 instruções dadas a uma IA pública: qualquer participante de uma chamada podia assumir o dispositivo de outro. Já está corrigida. O susto, não.

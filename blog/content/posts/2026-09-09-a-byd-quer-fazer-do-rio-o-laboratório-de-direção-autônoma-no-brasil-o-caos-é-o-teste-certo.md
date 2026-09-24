@@ -6,7 +6,8 @@ tags:
   - tecnologia
   - autonomia
   - estrategia
-summary: ""
+summary: "A BYD anunciou que quer transformar o Rio de Janeiro no laboratório de direção autônoma da empresa no Brasil."
+description: "A BYD anunciou que quer transformar o Rio de Janeiro no laboratório de direção autônoma da empresa no Brasil."
 ---
 
 A BYD anunciou que quer transformar o Rio de Janeiro no laboratório de direção autônoma da empresa no Brasil.

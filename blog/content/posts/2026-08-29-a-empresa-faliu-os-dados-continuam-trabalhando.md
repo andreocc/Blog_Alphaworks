@@ -6,8 +6,9 @@ tags:
   - dados
   - governanca
   - ia
-summary: ""
+summary: "A Spirit Airlines faliu. A Google comprou os dados dela num leilão — para treinar IA. Repare no que isso significa: o dado sobreviveu à empresa."
 author: "Andre Occenstein"
+description: "A Spirit Airlines faliu. A Google comprou os dados dela num leilão — para treinar IA. Repare no que isso significa: o dado sobreviveu à empresa."
 ---
 
 A Spirit Airlines faliu. A Google comprou os dados dela num leilão — para treinar IA.

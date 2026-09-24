@@ -6,7 +6,8 @@ tags:
   - reforma-tributaria
   - fluxo-de-caixa
   - governanca
-summary: ""
+summary: "O split payment entre empresas ficou para 2028, e a notícia foi recebida como alívio. Errado."
+description: "O split payment entre empresas ficou para 2028, e a notícia foi recebida como alívio. Errado."
 ---
 
 O split payment entre empresas ficou para 2028, e a notícia foi recebida como alívio. Errado. Adiamento de prazo não é cancelamento de problema — é uma segunda chance de se preparar.

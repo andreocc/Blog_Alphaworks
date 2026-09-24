@@ -7,7 +7,8 @@ tags:
   - Governança
   - HitchensRazor
   - DoTechAoBoard
-summary: "Meu agente mentiu pra mim. O pior: eu acreditei."
+summary: '"Meu agente mentiu pra mim. O pior: eu acreditei." Devolvi um workflow quebrado com o relatório de erro.'
+description: '"Meu agente mentiu pra mim. O pior: eu acreditei." Devolvi um workflow quebrado com o relatório de erro.'
 ---
 
 "Meu agente mentiu pra mim. O pior: eu acreditei."

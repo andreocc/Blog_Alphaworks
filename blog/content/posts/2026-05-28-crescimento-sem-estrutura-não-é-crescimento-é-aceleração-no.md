@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - carreira
-summary: "Crescimento sem estrutura não é crescimento. É aceleração no"
+summary: "Crescimento sem estrutura não é crescimento. É aceleração no escuro. Vi isso acontecer em empresas boas, com times competentes e líderes dedicados."
+description: "Crescimento sem estrutura não é crescimento. É aceleração no escuro. Vi isso acontecer em empresas boas, com times competentes e líderes dedicados."
 ---
 
 Crescimento sem estrutura não é crescimento. É aceleração no escuro.

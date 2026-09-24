@@ -5,7 +5,8 @@ draft: false
 tags:
   - governança
   - agentes-autonomos
-summary: "Hoje conclui as certificações InvGate Asset Management Advan"
+summary: "Hoje conclui as certificações InvGate Asset Management Advanced e InvGate Service Management Advanced."
+description: "Hoje conclui as certificações InvGate Asset Management Advanced e InvGate Service Management Advanced."
 ---
 
 Hoje conclui as certificações InvGate Asset Management Advanced e InvGate Service Management Advanced.

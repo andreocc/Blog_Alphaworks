@@ -6,7 +6,8 @@ tags:
   - ciberseguranca
   - governanca
   - risco
-summary: ""
+summary: "Ninguém invadiu as 50 empresas. Invadiram o fornecedor que todas usavam. Em agosto, o grupo Cl0p explorou falhas em softwares usados por empresas de."
+description: "Ninguém invadiu as 50 empresas. Invadiram o fornecedor que todas usavam. Em agosto, o grupo Cl0p explorou falhas em softwares usados por empresas de."
 ---
 
 Ninguém invadiu as 50 empresas. Invadiram o fornecedor que todas usavam.

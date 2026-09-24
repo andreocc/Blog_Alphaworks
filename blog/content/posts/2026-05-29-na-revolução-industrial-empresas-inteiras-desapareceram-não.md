@@ -7,7 +7,8 @@ tags:
   - IA
   - arquitetura-decisao
   - engenharia
-summary: "Na Revolução Industrial, empresas inteiras desapareceram não"
+summary: "Na Revolução Industrial, empresas inteiras desapareceram não porque o trabalho era ruim, mas porque o modelo de força mudou."
+description: "Na Revolução Industrial, empresas inteiras desapareceram não porque o trabalho era ruim, mas porque o modelo de força mudou."
 ---
 
 Na Revolução Industrial, empresas inteiras desapareceram não porque o trabalho era ruim, mas porque o modelo de força mudou. Quem dependia do suor e da destreza manual foi atropelado por quem aprendeu a domar o motor.

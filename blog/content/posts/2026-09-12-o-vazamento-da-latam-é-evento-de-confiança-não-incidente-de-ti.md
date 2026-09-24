@@ -6,7 +6,8 @@ tags:
   - ciberseguranca
   - dados
   - risco
-summary: ""
+summary: "Vazamento de dado não é incidente de TI. É evento de confiança. A Latam expôs nome, endereço e parte do cartão de crédito de clientes em uma falha de."
+description: "Vazamento de dado não é incidente de TI. É evento de confiança. A Latam expôs nome, endereço e parte do cartão de crédito de clientes em uma falha de."
 ---
 
 Vazamento de dado não é incidente de TI. É evento de confiança.

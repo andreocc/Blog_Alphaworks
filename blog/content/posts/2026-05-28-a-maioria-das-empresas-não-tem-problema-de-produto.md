@@ -7,7 +7,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - tecnologia
-summary: "A maioria das empresas não tem problema de produto"
+summary: "A maioria das empresas não tem problema de produto. Tem problema de visibilidade, de acompanhamento, de processo que vaza lead no meio do caminho."
+description: "A maioria das empresas não tem problema de produto. Tem problema de visibilidade, de acompanhamento, de processo que vaza lead no meio do caminho."
 ---
 
 A maioria das empresas não tem problema de produto.

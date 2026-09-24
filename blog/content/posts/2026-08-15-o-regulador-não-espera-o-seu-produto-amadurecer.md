@@ -5,7 +5,8 @@ draft: false
 tags:
   - regulacao
   - governanca
-summary: ""
+summary: "A ANPD deu três dias úteis para o Discord suspender as transmissões ao vivo no Brasil. A plataforma chamou a decisão de prematura."
+description: "A ANPD deu três dias úteis para o Discord suspender as transmissões ao vivo no Brasil. A plataforma chamou a decisão de prematura."
 ---
 
 A ANPD deu três dias úteis para o Discord suspender as transmissões ao vivo no Brasil. A plataforma chamou a decisão de prematura. Para o regulador, o prazo já tinha estourado.

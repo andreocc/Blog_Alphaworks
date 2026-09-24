@@ -4,7 +4,8 @@ date: 2026-08-12T20:36:45-03:00
 draft: false
 tags:
   - lideranca
-summary: ""
+summary: "A Viveo passou seis trimestres consertando o que havia saído do lugar. Cortou custo, renegociou contrato, reviu preço, desacelerou o que crescia errado,."
+description: "A Viveo passou seis trimestres consertando o que havia saído do lugar. Cortou custo, renegociou contrato, reviu preço, desacelerou o que crescia errado,."
 ---
 
 A Viveo passou seis trimestres consertando o que havia saído do lugar. Cortou custo, renegociou contrato, reviu preço, desacelerou o que crescia errado, atacou o capital de giro e renegociou a dívida. O mercado só voltou a acreditar quando o ciclo de ajuste chegou ao fim.

@@ -6,7 +6,8 @@ tags:
   - governanca
   - gestao
   - crise
-summary: ""
+summary: "Em 1º de setembro, a Chilli Beans, marca de óculos com 25 anos de mercado, divulgou um comunicado de reestruturação."
+description: "Em 1º de setembro, a Chilli Beans, marca de óculos com 25 anos de mercado, divulgou um comunicado de reestruturação."
 ---
 
 Em 1º de setembro, a Chilli Beans, marca de óculos com 25 anos de mercado, divulgou um comunicado de reestruturação. No mesmo dia, saiu uma segunda versão. No dia seguinte, uma terceira. Nenhuma das três explicava quem manda de fato.

@@ -7,7 +7,8 @@ tags:
   - arquitetura-decisao
   - engenharia
   - tecnologia
-summary: "A McKinsey & Company acaba de reforçar algo que já estamos v"
+summary: "A McKinsey & Company acaba de reforçar algo que já estamos vivendo na prática: a IA deixou de ser um simples chatbot e se tornou IA Agêntica, sistemas."
+description: "A McKinsey & Company acaba de reforçar algo que já estamos vivendo na prática: a IA deixou de ser um simples chatbot e se tornou IA Agêntica, sistemas."
 ---
 
 A McKinsey & Company acaba de reforçar algo que já estamos vivendo na prática: a IA deixou de ser um simples chatbot e se tornou IA Agêntica, sistemas capazes de executar processos completos e tomar decisões.

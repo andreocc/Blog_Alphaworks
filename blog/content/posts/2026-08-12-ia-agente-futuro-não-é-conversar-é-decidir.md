@@ -6,7 +6,8 @@ tags:
   - "ia"
   - "agente"
   - "governança"
-summary: ""
+summary: "Não é IA que conversa, é IA que decide. Empresas já integram IA em 40% dos apps até o final de 2026 (Gartner), mas a maioria ainda só conversa com."
+description: "Não é IA que conversa, é IA que decide. Empresas já integram IA em 40% dos apps até o final de 2026 (Gartner), mas a maioria ainda só conversa com."
 ---
 
 Não é IA que conversa, é IA que decide.

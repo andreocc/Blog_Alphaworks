@@ -6,7 +6,8 @@ tags:
   - ciberseguranca
   - automacao
   - governanca
-summary: ""
+summary: "Uma correção gerada por IA comprometeu o Jira da Snowflake. A ferramenta que existe para corrigir código sozinha virou a porta de entrada do invasor."
+description: "Uma correção gerada por IA comprometeu o Jira da Snowflake. A ferramenta que existe para corrigir código sozinha virou a porta de entrada do invasor."
 ---
 
 Uma correção gerada por IA comprometeu o Jira da Snowflake. A ferramenta que existe para corrigir código sozinha virou a porta de entrada do invasor.

@@ -6,7 +6,8 @@ tags:
   - custos
   - ia
   - finops
-summary: ""
+summary: "Sua fatura de IA não é custo de infraestrutura. É decisão de board. FinOps virou pauta obrigatória: sinais de fatura de nuvem fora de controle, governança."
+description: "Sua fatura de IA não é custo de infraestrutura. É decisão de board. FinOps virou pauta obrigatória: sinais de fatura de nuvem fora de controle, governança."
 ---
 
 Sua fatura de IA não é custo de infraestrutura. É decisão de board.

@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - tecnologia
   - carreira
-summary: "Muita empresa não precisa de mais tecnologia"
+summary: "Muita empresa não precisa de mais tecnologia. Precisa de direção. Essa é uma constatação que aparece toda vez que eu converso com CEOs, CIOs, diretores."
+description: "Muita empresa não precisa de mais tecnologia. Precisa de direção. Essa é uma constatação que aparece toda vez que eu converso com CEOs, CIOs, diretores."
 ---
 
 Muita empresa não precisa de mais tecnologia.

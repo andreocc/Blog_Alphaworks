@@ -7,7 +7,8 @@ tags:
   - agentes-autonomos
   - arquitetura-decisao
   - engenharia
-summary: "Quando gigantes da tecnologia anunciam cortes de dezenas de"
+summary: "Quando gigantes da tecnologia anunciam cortes de dezenas de milhares de vagas para investir pesado em infraestrutura de IA, o mercado aplaude a eficiência."
+description: "Quando gigantes da tecnologia anunciam cortes de dezenas de milhares de vagas para investir pesado em infraestrutura de IA, o mercado aplaude a eficiência."
 ---
 
 Quando gigantes da tecnologia anunciam cortes de dezenas de milhares de vagas para investir pesado em infraestrutura de IA, o mercado aplaude a eficiência e o crescimento de margem.

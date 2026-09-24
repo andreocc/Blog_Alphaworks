@@ -6,7 +6,8 @@ tags:
   - IA
   - agentes-autonomos
   - tecnologia
-summary: "A AGI já chegou"
+summary: "A AGI já chegou. O problema é que o processo da maioria das empresas ainda parece de 1990."
+description: "A AGI já chegou. O problema é que o processo da maioria das empresas ainda parece de 1990."
 ---
 
 A AGI já chegou.

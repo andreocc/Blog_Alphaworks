@@ -6,7 +6,8 @@ tags:
   - custos
   - fornecedor
   - cadeia
-summary: ""
+summary: "A Nvidia lucrou US$ 59,7 bilhões em um trimestre. Alta de 126%. A pergunta que importa não é como ela chegou lá. É quem pagou essa conta."
+description: "A Nvidia lucrou US$ 59,7 bilhões em um trimestre. Alta de 126%. A pergunta que importa não é como ela chegou lá. É quem pagou essa conta."
 ---
 
 A Nvidia lucrou US$ 59,7 bilhões em um trimestre. Alta de 126%. A pergunta que importa não é como ela chegou lá. É quem pagou essa conta.

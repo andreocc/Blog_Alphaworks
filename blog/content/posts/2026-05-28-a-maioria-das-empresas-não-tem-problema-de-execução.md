@@ -5,7 +5,8 @@ draft: false
 tags:
   - arquitetura-decisao
   - lideranca
-summary: "A maioria das empresas não tem problema de execução"
+summary: "A maioria das empresas não tem problema de execução. Tem problema de clareza. O time está ocupado. Os projetos estão andando. As reuniões acontecem."
+description: "A maioria das empresas não tem problema de execução. Tem problema de clareza. O time está ocupado. Os projetos estão andando. As reuniões acontecem."
 ---
 
 A maioria das empresas não tem problema de execução.

@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - carreira
-summary: "Definir métricas alinhadas ao propósito começa com uma obser"
+summary: "Definir métricas alinhadas ao propósito começa com uma observação simples: propósito é intenção; métrica é consequência."
+description: "Definir métricas alinhadas ao propósito começa com uma observação simples: propósito é intenção; métrica é consequência."
 ---
 
 Definir métricas alinhadas ao propósito começa com uma observação simples: 

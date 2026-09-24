@@ -7,7 +7,8 @@ tags:
   - operacoes
   - workflow
   - ia-agentes
-summary: ""
+summary: "Não é o modelo que dá vantagem. É o workflow. DeepSeek, OpenAI, Anthropic, Google — a concorrência virou guerra de preços."
+description: "Não é o modelo que dá vantagem. É o workflow. DeepSeek, OpenAI, Anthropic, Google — a concorrência virou guerra de preços."
 ---
 
 Não é o modelo que dá vantagem. É o workflow.

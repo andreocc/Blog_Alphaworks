@@ -4,7 +4,8 @@ date: 2026-06-01T23:17:22-03:00
 draft: false
 tags:
 
-summary: ""
+summary: "Este final de semana visitei uma exposição em São Paulo e uma frase ficou comigo: 'I am the other's other.' (Eu sou o outro do outro.) Fiquei pensando."
+description: "Este final de semana visitei uma exposição em São Paulo e uma frase ficou comigo: 'I am the other's other.' (Eu sou o outro do outro.) Fiquei pensando."
 ---
 
 ![](/images/file-00000000f0fc720ea399dabbfb40a8fe.png)

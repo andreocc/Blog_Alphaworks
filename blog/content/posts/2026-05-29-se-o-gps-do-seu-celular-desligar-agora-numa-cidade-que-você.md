@@ -7,7 +7,8 @@ tags:
   - IA
   - agentes-autonomos
   - arquitetura-decisao
-summary: "Se o GPS do seu celular desligar agora numa cidade que você"
+summary: "Se o GPS do seu celular desligar agora numa cidade que você não conhece, você entra em pânico."
+description: "Se o GPS do seu celular desligar agora numa cidade que você não conhece, você entra em pânico."
 ---
 
 Se o GPS do seu celular desligar agora numa cidade que você não conhece, você entra em pânico. Nós terceirizamos o nosso senso de direção para o algoritmo e esquecemos como ler um mapa.

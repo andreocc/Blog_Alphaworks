@@ -7,7 +7,8 @@ tags:
   - lideranca
   - engenharia
   - tecnologia
-summary: "“Mas o Claude disse que dá pra fazer.”"
+summary: "“Mas o Claude disse que dá pra fazer.” Essa frase está se tornando assustadoramente comum nas equipes de tecnologia."
+description: "“Mas o Claude disse que dá pra fazer.” Essa frase está se tornando assustadoramente comum nas equipes de tecnologia."
 ---
 
 “Mas o Claude disse que dá pra fazer.”

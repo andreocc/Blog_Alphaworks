@@ -4,7 +4,8 @@ date: 2026-08-12T20:36:07-03:00
 draft: false
 tags:
   - ciberseguranca
-summary: ""
+summary: "O maior risco que o conselho monitora não está no mercado. Está no firewall. Incidentes cibernéticos lideram a lista de riscos globais para 2026, à frente."
+description: "O maior risco que o conselho monitora não está no mercado. Está no firewall. Incidentes cibernéticos lideram a lista de riscos globais para 2026, à frente."
 ---
 
 O maior risco que o conselho monitora não está no mercado. Está no firewall.

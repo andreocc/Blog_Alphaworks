@@ -6,7 +6,8 @@ tags:
   - cloud
   - dados
   - governanca
-summary: ""
+summary: "Data center no Brasil não é soberania. É onde o dado mora. Dell e AMD veem o país como destino de uma onda de investimentos em data centers."
+description: "Data center no Brasil não é soberania. É onde o dado mora. Dell e AMD veem o país como destino de uma onda de investimentos em data centers."
 ---
 
 Data center no Brasil não é soberania. É onde o dado mora.

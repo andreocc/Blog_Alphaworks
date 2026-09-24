@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - tecnologia
-summary: "O Board espera milagres da IA"
+summary: "O Board espera milagres da IA. O time técnico espera clareza. No meio disso, um abismo que não é falta de competência, é falta de tradução."
+description: "O Board espera milagres da IA. O time técnico espera clareza. No meio disso, um abismo que não é falta de competência, é falta de tradução."
 ---
 
 O Board espera milagres da IA. 

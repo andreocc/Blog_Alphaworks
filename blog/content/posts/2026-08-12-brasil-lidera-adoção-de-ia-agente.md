@@ -6,7 +6,8 @@ tags:
   - "ia"
   - "br"
   - "adocao"
-summary: ""
+summary: "O Brasil lidera a adoção de IA Agêntica, mas o que isso realmente significa para sua empresa?"
+description: "O Brasil lidera a adoção de IA Agêntica, mas o que isso realmente significa para sua empresa?"
 ---
 
 O Brasil lidera a adoção de IA Agêntica, mas o que isso realmente significa para sua empresa?

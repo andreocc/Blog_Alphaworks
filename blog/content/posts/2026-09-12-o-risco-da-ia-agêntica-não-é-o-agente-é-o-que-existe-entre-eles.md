@@ -6,7 +6,8 @@ tags:
   - ia-agente
   - orquestracao
   - governanca
-summary: ""
+summary: "O risco da IA agêntica não é o agente. É o que existe entre eles. A análise da VentureBeat é precisa: as empresas se preocupam com o agente que age."
+description: "O risco da IA agêntica não é o agente. É o que existe entre eles. A análise da VentureBeat é precisa: as empresas se preocupam com o agente que age."
 ---
 
 O risco da IA agêntica não é o agente. É o que existe entre eles.

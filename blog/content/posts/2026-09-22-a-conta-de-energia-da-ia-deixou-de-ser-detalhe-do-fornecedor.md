@@ -7,7 +7,8 @@ tags:
   - custos
   - infraestrutura
   - governanca
-summary: ""
+summary: "A Câmara dos Estados Unidos aprovou por 417 a 3 que data centers de IA com demanda acima de 100 megawatts paguem a infraestrutura que exigem."
+description: "A Câmara dos Estados Unidos aprovou por 417 a 3 que data centers de IA com demanda acima de 100 megawatts paguem a infraestrutura que exigem."
 ---
 
 A Câmara dos Estados Unidos aprovou por 417 a 3 que data centers de IA com demanda acima de 100 megawatts paguem a infraestrutura que exigem. Rede, transmissão, geração. Nada disso vai mais para a conta do consumidor residencial.

@@ -4,7 +4,8 @@ date: 2026-07-24T12:22:08-03:00
 draft: false
 tags:
 
-summary: ""
+summary: "O Board celebrou o corte de 30% nas vagas de entrada. A IA agora faz pesquisa, limpa dados e escreve código básico em milissegundos."
+description: "O Board celebrou o corte de 30% nas vagas de entrada. A IA agora faz pesquisa, limpa dados e escreve código básico em milissegundos."
 ---
 
 ![](/images/pasted-image-20260724092150.png)

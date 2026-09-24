@@ -7,7 +7,8 @@ tags:
   - lideranca
   - engenharia
   - tecnologia
-summary: "Herbert Simon, Nobel de Economia, previu em 1971: \"A riqueza\""
+summary: "Herbert Simon, Nobel de Economia, previu em 1971: 'A riqueza de informação cria a pobreza de atenção'. Em 2026, não vivemos apenas uma crise de foco."
+description: "Herbert Simon, Nobel de Economia, previu em 1971: 'A riqueza de informação cria a pobreza de atenção'. Em 2026, não vivemos apenas uma crise de foco."
 ---
 
 Herbert Simon, Nobel de Economia, previu em 1971: "A riqueza de informação cria a pobreza de atenção".

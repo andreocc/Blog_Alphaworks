@@ -4,7 +4,8 @@ date: 2026-06-07T18:25:56-03:00
 draft: false
 tags:
 
-summary: ""
+summary: "E a maioria das empresas só vai descobrir isso quando o caixa travar em produção."
+description: "E a maioria das empresas só vai descobrir isso quando o caixa travar em produção."
 ---
 
 ![](/images/file-000000000b78720ea6c286328961e835.png)

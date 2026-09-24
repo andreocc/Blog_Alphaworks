@@ -7,7 +7,8 @@ tags:
   - IA
   - agentes-autonomos
   - engenharia
-summary: "Ferramentas como Claude Code já provaram: IA não é mais chat"
+summary: "Ferramentas como Claude Code já provaram: IA não é mais chatbot. Agentes leem repositórios inteiros, propõem soluções e executam código de forma autônoma."
+description: "Ferramentas como Claude Code já provaram: IA não é mais chatbot. Agentes leem repositórios inteiros, propõem soluções e executam código de forma autônoma."
 ---
 
 Ferramentas como Claude Code já provaram: IA não é mais chatbot. Agentes leem repositórios inteiros, propõem soluções e executam código de forma autônoma.

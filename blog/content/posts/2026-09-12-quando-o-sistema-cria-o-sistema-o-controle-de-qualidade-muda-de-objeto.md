@@ -6,7 +6,8 @@ tags:
   - ia-agentica
   - operacoes
   - qualidade
-summary: ""
+summary: "A próxima fase da IA não é o agente que executa. É o sistema que cria sistema. Foi o que o mercado sinalizou na semana passada: agentes deixam de sugerir."
+description: "A próxima fase da IA não é o agente que executa. É o sistema que cria sistema. Foi o que o mercado sinalizou na semana passada: agentes deixam de sugerir."
 ---
 
 A próxima fase da IA não é o agente que executa. É o sistema que cria sistema.

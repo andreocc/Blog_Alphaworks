@@ -4,7 +4,8 @@ date: 2026-08-12T20:35:46-03:00
 draft: false
 tags:
   - regulacao
-summary: ""
+summary: "A lei de IA vai chegar. O problema é quem espera por ela. O PL 2338 segue em audiências no Senado e o desenho já é conhecido: transparência, avaliação de."
+description: "A lei de IA vai chegar. O problema é quem espera por ela. O PL 2338 segue em audiências no Senado e o desenho já é conhecido: transparência, avaliação de."
 ---
 
 A lei de IA vai chegar. O problema é quem espera por ela.

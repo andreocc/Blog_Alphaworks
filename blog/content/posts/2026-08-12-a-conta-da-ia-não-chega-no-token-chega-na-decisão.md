@@ -4,7 +4,8 @@ date: 2026-08-12T10:59:11-03:00
 draft: false
 tags:
   - custos
-summary: ""
+summary: "Ninguém tem problema com o preço do token. O problema é pagar por tokens que não decidem nada."
+description: "Ninguém tem problema com o preço do token. O problema é pagar por tokens que não decidem nada."
 ---
 
 Ninguém tem problema com o preço do token. O problema é pagar por tokens que não decidem nada.

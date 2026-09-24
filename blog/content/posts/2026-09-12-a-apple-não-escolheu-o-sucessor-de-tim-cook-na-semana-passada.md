@@ -6,7 +6,8 @@ tags:
   - lideranca
   - governanca
   - sucessao
-summary: ""
+summary: "Tim Cook deixa a Apple após 15 anos, e John Ternus assume. O conselho não escolheu o novo CEO na semana passada."
+description: "Tim Cook deixa a Apple após 15 anos, e John Ternus assume. O conselho não escolheu o novo CEO na semana passada."
 ---
 
 Tim Cook deixa a Apple após 15 anos, e John Ternus assume. O conselho não escolheu o novo CEO na semana passada. Escolheu em 2011, quando começou a preparar a cadeira.

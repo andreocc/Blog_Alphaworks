@@ -7,7 +7,8 @@ tags:
   - lideranca
   - tecnologia
   - carreira
-summary: "Filósofos passaram séculos desenvolvendo ferramentas para el"
+summary: "Filósofos passaram séculos desenvolvendo ferramentas para eliminar o que não serve."
+description: "Filósofos passaram séculos desenvolvendo ferramentas para eliminar o que não serve."
 ---
 
 Filósofos passaram séculos desenvolvendo ferramentas para eliminar o que não serve.

@@ -3,7 +3,8 @@ title: "Governança do Silêncio"
 date: 2026-07-24T12:30:00-03:00
 draft: false
 tags: ["ia", "governanca", "automacao", "arquitetura-de-decisao"]
-summary: "O verdadeiro diferencial de um agente de IA não é o que ele faz sozinho, mas o que ele decide não fazer."
+summary: "A ilusão do 'Agente Autônomo' acabou. O jogo real é sobre governança do silêncio."
+description: "A ilusão do 'Agente Autônomo' acabou. O jogo real é sobre governança do silêncio."
 ---
 
 ![Governança do Silêncio](/images/governanca-do-silencio.jpg)

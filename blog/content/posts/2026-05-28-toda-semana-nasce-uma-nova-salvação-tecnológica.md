@@ -6,7 +6,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - tecnologia
-summary: "Toda semana nasce uma nova “salvação” tecnológica"
+summary: "Toda semana nasce uma nova “salvação” tecnológica. O hype não para. O FOMO do Board também não. A operação corre atrás do recurso da moda."
+description: "Toda semana nasce uma nova “salvação” tecnológica. O hype não para. O FOMO do Board também não. A operação corre atrás do recurso da moda."
 ---
 
 Toda semana nasce uma nova “salvação” tecnológica.

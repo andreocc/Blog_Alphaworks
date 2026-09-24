@@ -7,7 +7,8 @@ tags:
   - ciberseguranca
   - open-source
   - governanca
-summary: ""
+summary: "Pela primeira vez documentada na história, uma IA atacou outra IA sem intervenção humana."
+description: "Pela primeira vez documentada na história, uma IA atacou outra IA sem intervenção humana."
 ---
 
 ![Pasted image 20260723153720.png](/images/pasted-image-20260723153720.png)

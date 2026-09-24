@@ -4,7 +4,8 @@ date: 2026-05-29
 draft: false
 tags:
   - tecnologia
-summary: "*Post sem texto*"
+summary: "Post de exemplo do tema, sem conteúdo publicado."
+description: "Post de exemplo do tema, sem conteúdo publicado."
 ---
 
 *Post sem texto*

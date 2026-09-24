@@ -6,7 +6,8 @@ tags:
   - lideranca
   - ia
   - responsabilidade-humana
-summary: ""
+summary: "O debate sobre a dívida cognitiva voltou: o que acontece com quem usa IA o dia inteiro. A ciência ainda não sabe. Mas o gestor já pode observar o sintoma."
+description: "O debate sobre a dívida cognitiva voltou: o que acontece com quem usa IA o dia inteiro. A ciência ainda não sabe. Mas o gestor já pode observar o sintoma."
 ---
 
 O debate sobre a dívida cognitiva voltou: o que acontece com quem usa IA o dia inteiro. A ciência ainda não sabe. Mas o gestor já pode observar o sintoma.

@@ -6,7 +6,8 @@ tags:
   - lideranca
   - engenharia
   - tecnologia
-summary: "Por que algumas empresas parecem queimar caixa com tecnologi"
+summary: "Por que algumas empresas parecem queimar caixa com tecnologia enquanto outras escalam com eficiência?"
+description: "Por que algumas empresas parecem queimar caixa com tecnologia enquanto outras escalam com eficiência?"
 ---
 
 Por que algumas empresas parecem queimar caixa com tecnologia enquanto outras escalam com eficiência?

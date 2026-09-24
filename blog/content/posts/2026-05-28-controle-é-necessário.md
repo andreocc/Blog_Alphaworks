@@ -4,7 +4,8 @@ date: 2026-05-28
 draft: false
 tags:
   - tecnologia
-summary: "Controle é necessário"
+summary: "Controle é necessário. Mas quando vira freio de mão puxado, ele mata o negócio. Empresas B2B não morrem por falta de controle."
+description: "Controle é necessário. Mas quando vira freio de mão puxado, ele mata o negócio. Empresas B2B não morrem por falta de controle."
 ---
 
 Controle é necessário.

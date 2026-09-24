@@ -5,7 +5,8 @@ draft: false
 tags:
   - ia-agencia
   - governanca
-summary: ""
+summary: "Não falta piloto para IA nas empresas. Falta governança para o que já está em produção."
+description: "Não falta piloto para IA nas empresas. Falta governança para o que já está em produção."
 ---
 
 Não falta piloto para IA nas empresas. Falta governança para o que já está em produção.

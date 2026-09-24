@@ -5,7 +5,8 @@ draft: false
 tags:
   - engenharia
   - tecnologia
-summary: "Sua dívida técnica não é mais um problema de TI. É um risco"
+summary: "Sua dívida técnica não é mais um problema de TI. É um risco de insolvência. Durante anos o Board tratou dívida técnica como “coisa que a TI resolve quando."
+description: "Sua dívida técnica não é mais um problema de TI. É um risco de insolvência. Durante anos o Board tratou dívida técnica como “coisa que a TI resolve quando."
 ---
 
 Sua dívida técnica não é mais um problema de TI. É um risco de insolvência.

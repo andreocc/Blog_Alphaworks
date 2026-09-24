@@ -7,7 +7,8 @@ tags:
   - arquitetura-decisao
   - lideranca
   - engenharia
-summary: "O Orçamento do Medo Não Funciona Mais"
+summary: "O Orçamento do Medo Não Funciona Mais. Cibersegurança e arquitetura de infraestrutura não são “problemas de TI”."
+description: "O Orçamento do Medo Não Funciona Mais. Cibersegurança e arquitetura de infraestrutura não são “problemas de TI”."
 ---
 
 O Orçamento do Medo Não Funciona Mais.

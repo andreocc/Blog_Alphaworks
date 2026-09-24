@@ -7,6 +7,9 @@ tags:
   - IA
   - gestão
   - estratégia
+description: "Todo mundo faz a pergunta errada: 'IA vai destruir meu emprego?' A verdade é outra. IA não vai destruir empregos."
+summary: "Todo mundo faz a pergunta errada: 'IA vai destruir meu emprego?' A verdade é outra. IA não vai destruir empregos."
+description: "Todo mundo faz a pergunta errada: \"IA vai destruir meu emprego?\" A verdade é outra. IA não vai destruir empregos."
 ---
 
 Todo mundo faz a pergunta errada: "IA vai destruir meu emprego?"
